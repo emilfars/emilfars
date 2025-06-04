@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emilfs
+- 👋 Hi, I’m @emilfars
 - 👀 I’m interested in backend and devops stuff
 - 🌱 I’m currently learning more about good software development and it's best practices
 - 💞️ I’m looking to collaborate on stock market related projects
