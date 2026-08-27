@@ -1,7 +1,7 @@
 <h1 align="center">Emil Farisan Singgih</h1>
 
 <p align="center">
-  Backend engineer • Fintech • Payments & Lending
+  Software Engineer • Fintech • Payments & Lending
 </p>
 
 <p align="center">
