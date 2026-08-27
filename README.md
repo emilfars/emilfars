@@ -12,7 +12,7 @@
 
 ---
 
-Backend engineer with five years of experience building payment and lending systems that stay fast and reliable under real-world load. Most of my work lives in fintech, where the margin for error is small and the traffic rarely sleeps.
+Software Engineer with five years of experience building payment and lending systems that stay fast and reliable under real-world load. Most of my work lives in fintech, where the margin for error is small and the traffic rarely sleeps.
 
 I currently work at HungerStation, and before that I spent time at Grab, OVO, Sribuu, and Mozilla. I enjoy the parts of engineering that don't always get the spotlight: cutting latency, paying down technical debt, and making services easier to reason about.
 
